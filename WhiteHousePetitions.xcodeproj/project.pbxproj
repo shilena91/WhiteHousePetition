@@ -14,6 +14,8 @@
 		F3050559240BEF170059B9DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3050558240BEF170059B9DF /* Assets.xcassets */; };
 		F305055C240BEF170059B9DF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F305055A240BEF170059B9DF /* LaunchScreen.storyboard */; };
 		F3050564240BF2BE0059B9DF /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3050563240BF2BE0059B9DF /* Petition.swift */; };
+		F34C2EC9240EED1700E685CE /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34C2EC8240EED1700E685CE /* Petitions.swift */; };
+		F34C2ECB240EF14900E685CE /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F34C2ECA240EF14900E685CE /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		F305055B240BEF170059B9DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F305055D240BEF170059B9DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F3050563240BF2BE0059B9DF /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
+		F34C2EC8240EED1700E685CE /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		F34C2ECA240EF14900E685CE /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +65,9 @@
 				F305054F240BEF130059B9DF /* AppDelegate.swift */,
 				F3050551240BEF130059B9DF /* SceneDelegate.swift */,
 				F3050553240BEF130059B9DF /* ViewController.swift */,
+				F34C2ECA240EF14900E685CE /* DetailViewController.swift */,
 				F3050563240BF2BE0059B9DF /* Petition.swift */,
+				F34C2EC8240EED1700E685CE /* Petitions.swift */,
 				F3050555240BEF130059B9DF /* Main.storyboard */,
 				F3050558240BEF170059B9DF /* Assets.xcassets */,
 				F305055A240BEF170059B9DF /* LaunchScreen.storyboard */,
@@ -144,7 +150,9 @@
 				F3050554240BEF130059B9DF /* ViewController.swift in Sources */,
 				F3050564240BF2BE0059B9DF /* Petition.swift in Sources */,
 				F3050550240BEF130059B9DF /* AppDelegate.swift in Sources */,
+				F34C2ECB240EF14900E685CE /* DetailViewController.swift in Sources */,
 				F3050552240BEF130059B9DF /* SceneDelegate.swift in Sources */,
+				F34C2EC9240EED1700E685CE /* Petitions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
